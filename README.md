@@ -16,7 +16,7 @@
 **Конец**
 
 ### Блок-схема
-
+![BShema8.png](https://github.com/zxcserkkk/Lab8/blob/master/BShema8.png)
 ## Код
 
 ```c
